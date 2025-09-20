@@ -1,0 +1,13 @@
+[[Sorting]]
+[[Searching]]
+[[Binary search]]
+[[Recursion]]
+[[Divide and Conquer]]
+[[Backtracking]]
+[[Greedy]]
+[[Dynamic Programming]]
+[[Graph algorithms]]
+[[String algorithms]]
+[[Bit manipulation]]
+[[Special]]
+
